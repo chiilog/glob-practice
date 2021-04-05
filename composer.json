@@ -1,0 +1,22 @@
+{
+    "name": "practice/glob",
+    "description": "description",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://wpackagist.org"
+        }
+    ],
+    "config": {
+        "platform": {
+            "php": "7.4.12"
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Practice\\Function\\" : "htdocs/functions"
+        }
+    }
+}

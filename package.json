@@ -1,0 +1,11 @@
+{
+    "name": "php_glob",
+    "version": "1.0.0",
+    "scripts": {
+        "bs": "browser-sync start --config bs-config.js",
+        "start": "npm run bs"
+    },
+    "devDependencies": {
+        "browser-sync": "^2.26.14"
+    }
+}
