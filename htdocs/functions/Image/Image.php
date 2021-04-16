@@ -8,7 +8,7 @@ namespace Practice\Function\Image;
  */
 class Image {
 	/**
-	 * 画像を取得する配列
+	 * 画像のURLを入れる配列
 	 *
 	 * @var string[]
 	 */
